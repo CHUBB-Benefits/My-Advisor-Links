@@ -1,6 +1,6 @@
 ---
 avatar-name: "J. Elliot Shields"
-avatar-url: "assets/img/avatar.jpg"
+avatar-url: "assets/img/img-0373_QRYfMVwF.jpg"
 avatar-alt-text: "Young man smiling in a dark blue suit and tie."
 interest-prefix: "My interests:"
 ---
