@@ -5,4 +5,5 @@ avatar-alt-text: "Young man smiling calmly in a dark blue suit and tie. His eyes
 interest-prefix: "My interests:"
 ---
 
-I’m GitHub’s mascot, an anthropomorphized “[octocat](https://octodex.github.com/)” with five octopus-like arms. I was created by graphic designer Simon Oxley.
+My goal is to protect 10,000 families by 2036.
+"Get hurt. Get sick. Get paid."
