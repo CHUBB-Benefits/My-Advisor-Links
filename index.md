@@ -6,5 +6,6 @@ interest-prefix: "My interests:"
 ---
 
 "Get hurt. Get sick. Get paid."
+
 My goal is to protect 10,000 families by 2038.
 
