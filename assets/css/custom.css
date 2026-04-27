@@ -4,30 +4,16 @@ svg {
     width: 1.25em;
     height: 1.25em;
 }
-/* Full profile photo: show entire image (no crop) and make it responsive */
+/* Full profile photo: responsive and uncropped */
 .profile-photo {
   display: block;
   margin: 0 auto;
 
-  /* Responsive sizing */
-  width: min(520px, 92vw);  /* max width on desktop, shrink on mobile */
-  height: auto;             /* preserve your 4160x6240 aspect ratio */
+  width: min(520px, 92vw);
+  height: auto;
 
-  /* Prevent it from taking over the whole screen on phones */
   max-height: 70vh;
-
-  /* Ensure the whole image shows (no cropping) */
   object-fit: contain;
 
-  /* Optional aesthetics */
-  border-radius: 16px;
-}
-
-/* Make it feel nicer on small screens */
-@media (max-width: 544px) {
-  .profile-photo {
-    width: 100%;
-    max-height: 65vh;
-    border-radius: 14px;
-  }
+  border-radius: 16px; /* optional */
 }
