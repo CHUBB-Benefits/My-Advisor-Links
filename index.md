@@ -6,4 +6,5 @@ interest-prefix: "My interests"
 ---
 
 "Get hurt. Get sick. Get paid."<br><br>
-To learn how, book a 15min intro call below!<br><br>
+You don't have to "play through the pain" anymore.<br><br>
+Book a 15min intro call below to build a more sustainable & resilient life.<br><br>
